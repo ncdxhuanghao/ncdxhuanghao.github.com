@@ -12,10 +12,10 @@ title : huanghao
 tagline: 热爱编程，热爱生活
 author :
   name : hao
-  email : ncdxrjxyhuanghao@sina.com
-  github : ncdxhuanghao.github.com
-  twitter : username
-  feedburner : feedname
+# email : ncdxrjxyhuanghao@sina.com
+# github : https://github.com/ncdxhuanghao
+#  twitter : username
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

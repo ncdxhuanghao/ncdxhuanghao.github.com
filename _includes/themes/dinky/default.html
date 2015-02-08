@@ -13,11 +13,14 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
+	<!-- my custom google search -->
+	{% include my_google_search.html %}
     {% include JB/analytics %}
   </head>
   <body>
     <div class="wrapper">
+	
+	
       <header>
         <h1 class="header"><a href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
         <p class="header">{{ site.tagline }}</p>
